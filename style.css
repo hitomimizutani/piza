@@ -243,6 +243,8 @@
   z-index: 500;
   margin:0 auto;
   width:360px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .random img{
   width:400px;
