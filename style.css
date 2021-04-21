@@ -241,6 +241,8 @@
   position: absolute;
   top:20%;
   z-index: 500;
+  margin:0 auto;
+  width:360px;
 }
 .random img{
   width:400px;
